@@ -1,3 +1,37 @@
-footer{
-	
+body{
+	background-image: url("https://timedotcom.files.wordpress.com/2017/03/170314_stocks.jpg");
+}
+
+/*styling info for table*/
+table{
+	background-color: aliceblue;
+	border: solid black 5px;
+}
+th{
+	border: 2px solid black;
+	padding: 2px 8px;
+}
+tr{
+	border: 1px solid black;
+}
+tr:nth-child(odd){
+	background-color: lightgray;
+}
+td.last-price{
+	font-weight: bold;
+}
+td.increasing{
+	color: green;
+	font-weight: bold;
+}
+td.decreasing{
+	color: red;
+	font-style: italic;
+}
+
+.pop{
+	background-color: aliceblue;opacity: 0.8;
+	border-radius: 15px;
+	margin: 25px 0px 25px 0px;
+	padding: 20px;
 }

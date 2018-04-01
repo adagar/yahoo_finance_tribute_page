@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Finance Page</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<link rel = "stylesheet" href = "css/index.css">
+	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+	<script src="scripts/index.js"></script>
+</head>
+<body>
+	<div class="container-fluid justify-content-center">
+		<!-- <div class="jumbotron"> -->
+			<div class="row">
+				<div class="col">
+				</div>
+				<div class="col text-center pop">
+					<h1>
+						Yahoo Stocks Page
+						<br>
+						<small class="text-muted">
+							Did I make some money?
+						</small>
+						<br>
+					</h1>
+				</div>
+				<div class="col">
+				</div>
+			</div>
+			<div class="row justify-content-center">
+				<div class="col-3">
+				</div>
+				<div class="col-6 justify-content-center">
+				<table>
+				<tr>
+					<th>Symbol</th>
+					<th>Last Price</th>
+					<th>Change</th>
+					<th>% Chg</th>
+					<th>Volume</th>
+					<th>52 Week High</th>
+					<th>52 Week Low</th>
+					<th>Market Cap</th>
+				</tr>
+				<tr>
+				    <td>BA</td>
+				    <td class="last-price">327.88</td>
+				    <td class="change">7.86</td>
+				    <td class="change">0.0246</td>
+				    <td>3.65M</td>
+				    <td>175.47</td>
+				    <td>371.6</td>
+				    <td>192.54B</td>
+				</tr>
+				<tr>
+				    <td>DIS</td>
+				    <td class="last-price">100.44</td>
+				    <td class="change">1.9</td>
+				    <td class="change">0.0193</td>
+				    <td>9.34M</td>
+				    <td>96.2</td>
+				    <td>116.1</td>
+				    <td>151.03B</td>
+				</tr>
+				<tr>
+				    <td>KO</td>
+				    <td class="last-price">43.43</td>
+				    <td class="change">0.11</td>
+				    <td class="change">0.0025</td>
+				    <td>10.45M</td>
+				    <td>42.19</td>
+				    <td>48.62</td>
+				    <td>185.21B</td>
+				</tr>
+				<tr>
+				    <td>SBUX</td>
+				    <td class="last-price">57.89</td>
+				    <td class="change">-0.01</td>
+				    <td class="change">-0.0002</td>
+				    <td>12.02M</td>
+				    <td>52.58</td>
+				    <td>64.87</td>
+				    <td>81.37B</td>
+				</tr>
+				<tr>
+				    <td>QCOM</td>
+				    <td class="last-price">55.41</td>
+				    <td class="change">0.71</td>
+				    <td class="change">0.013</td>
+				    <td>8.48M</td>
+				    <td>48.92</td>
+				    <td>69.28</td>
+				    <td>82.03B</td>
+				</tr>
+				<tr>
+				    <td>EA</td>
+				    <td class="last-price">121.24</td>
+				    <td class="change">1.91</td>
+				    <td class="change">0.016</td>
+				    <td>2.81M</td>
+				    <td>87.94</td>
+				    <td>131.13</td>
+				    <td>37.19B</td>
+				</tr>
+				<tr>
+				    <td>MSFT</td>
+				    <td class="last-price">91.27</td>
+				    <td class="change">1.88</td>
+				    <td class="change">0.021</td>
+				    <td>45.87M</td>
+				    <td>64.85</td>
+				    <td>97.24</td>
+				    <td>702.76B</td>
+				</tr>
+				<tr>
+				    <td>SNE</td>
+				    <td class="last-price">48.34</td>
+				    <td class="change">0.26</td>
+				    <td class="change">0.0054</td>
+				    <td>2.14M</td>
+				    <td>31.32</td>
+				    <td>53.91</td>
+				    <td>59.99B</td>
+				</tr>
+				<tr>	
+				    <td>BTC-USD</td>
+				    <td class="last-price">6915.65</td>
+				    <td class="change">-28.12</td>
+				    <td class="change">-0.004</td>
+				    <td>801.81M</td>
+				    <td>841.53</td>
+				    <td>19870.62</td>
+				    <td>117.24B</td>
+				</tr>
+				<tr>
+				    <td>AMZN</td>
+				    <td class="last-price">1447.34</td>
+				    <td class="change">15.92</td>
+				    <td class="change">0.0111</td>
+				    <td>12.58M</td>
+				    <td>884.49</td>
+				    <td>1617.54</td>
+				    <td>700.67B</td>
+				</tr>
+				<tr>
+				    <td>GOOG</td>
+				    <td class="last-price">1031.79</td>
+				    <td class="change">27.23</td>
+				    <td class="change">0.0271</td>
+				    <td>2.73M</td>
+				    <td>817.02</td>
+				    <td>1186.89</td>
+				    <td>718.28B</td>
+				</tr>
+				<tr>
+				    <td>NTDOY</td>
+				    <td class="last-price">55.51</td>
+				    <td class="change">1.1</td>
+				    <td class="change">0.0202</td>
+				    <td>165.15k</td>
+				    <td>28.88</td>
+				    <td>58.45</td>
+				    <td>54.01B</td>
+				</tr>
+				</table>
+			</div>
+			<div class="col-3">
+				</div>
+			</div>
+			<div class="row text-center justify-content-center">
+				<p class="text-muted pop">
+					Want to track your stocks? Create a profile at <a target="_blank" href="https://finance.yahoo.com/portfolios">Yahoo Finance</a> today!
+				</p>
+		<!-- </div> -->
+	</div>
+</body>
+</html>

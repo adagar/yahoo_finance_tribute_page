@@ -1,0 +1,215 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"weat",
+				"weather-data"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/A Nick Garza/Desktop/CareerDevs/yahoo_finance_tribute_page"
+	],
+	"file_history":
+	[
+		"/C/Users/A Nick Garza/Desktop/CareerDevs/fcc_weather_api_project/index.html",
+		"/C/Users/A Nick Garza/Desktop/CareerDevs/fcc_algorithms/smallest_common.js",
+		"/C/Users/A Nick Garza/Desktop/CareerDevs/fcc_algorithms/arguments_optional.js",
+		"/C/Users/A Nick Garza/Desktop/CareerDevs/fcc_algorithms/closure_playground.js",
+		"/C/Users/A Nick Garza/Desktop/CareerDevs/fcc_algorithms/steamroller.js",
+		"/C/Users/A Nick Garza/Desktop/CareerDevs/fcc_algorithms/binary_agents.js",
+		"/C/Users/A Nick Garza/Desktop/CareerDevs/fcc_algorithms/everthing_be_true.js",
+		"/C/Users/A Nick Garza/AppData/Roaming/Sublime Text 3/Packages/User/Javascript.sublime-build",
+		"/C/Users/A Nick Garza/Desktop/CareerDevs/fcc_weather_api_project/css/index.css",
+		"/C/Users/A Nick Garza/Desktop/CareerDevs/fcc_weather_api_project/scripts/index.js",
+		"/C/Users/A Nick Garza/Desktop/CareerDevs/hist_of_algorithms",
+		"/C/Users/A Nick Garza/Desktop/BlackHatCooperative/Builds/3_28_18_2/ps4-pkg-UP3261-CUSA08446_00-0000000000000000-A0100-V0101-spec.xml",
+		"/C/Users/A Nick Garza/Desktop/BlackHatCooperative/Builds/3_18_18_2/ps4-pkg-UP3261-CUSA08446_00-0000000000000000-A0100-V0101-spec.xml",
+		"/C/Users/A Nick Garza/Desktop/BlackHatCooperative/Builds/3_19_18/ps4-pkg-UP3261-CUSA08446_00-0000000000000000-A0100-V0101-spec.xml",
+		"/C/Users/A Nick Garza/Desktop/CareerDevs/Udemy/1. Creating web servers with Node.js and Express/1. Creating web servers with Node.js and Express/5.1 04Asynccode.zip/04 Async-code/async-non-blocking.js",
+		"/C/Users/A Nick Garza/Desktop/CareerDevs/Udemy/1. Creating web servers with Node.js and Express/1. Creating web servers with Node.js and Express/5.1 04Asynccode.zip/04 Async-code/async-non-blocking-named-callbacks.js",
+		"/C/Users/A Nick Garza/Desktop/CareerDevs/Udemy/MEAN/mean.js",
+		"/C/Users/A Nick Garza/Desktop/CareerDevs/Udemy/MEAN/app.js",
+		"/C/Users/A Nick Garza/Desktop/CareerDevs/Udemy/MEAN/setTimeout.js",
+		"/C/Users/A Nick Garza/Desktop/CareerDevs/Udemy/MEAN/talk/question.js",
+		"/C/Users/A Nick Garza/Desktop/CareerDevs/Udemy/MEAN/talk/index.js",
+		"/C/Users/A Nick Garza/Desktop/CareerDevs/Udemy/MEAN/talk/goodbye.js",
+		"/C/Users/A Nick Garza/Desktop/CareerDevs/Udemy/MEAN/instantHello.js",
+		"/C/Users/A Nick Garza/Dropbox/IntracityGeeks/TributePage/index.html",
+		"/C/Users/A Nick Garza/Dropbox/IntracityGeeks/TributePage/css/style.css",
+		"/C/Users/A Nick Garza/Downloads/index.cfm",
+		"/C/Users/A Nick Garza/AppData/Local/Temp/Rar$DIa16840.25189/master_info.xml",
+		"/C/Users/A Nick Garza/Desktop/BlackHatCooperative/Development/fcc_algorithms/search_and_replace.js",
+		"/C/Users/A Nick Garza/Desktop/CareerDevs/fcc_algorithms/dna_pairing.js",
+		"/C/Users/A Nick Garza/Desktop/CareerDevs/fcc_algorithms/missing_letter.js",
+		"/C/Users/A Nick Garza/Desktop/CareerDevs/Udemy/Example_Source_Code/mean-stack-hero-section-01/app.js",
+		"/C/Users/A Nick Garza/Desktop/CareerDevs/Udemy/Example_Source_Code/mean-stack-hero-section-01/readme.md",
+		"/C/Users/A Nick Garza/AppData/Local/Temp/Rar$DIa6736.20036/master_info.xml",
+		"/C/Users/A Nick Garza/Desktop/BlackHatCooperative/Builds/3_18_18_2/ps4-pkg-UP3261-CUSA08446_00-0000000000000000-A0100-V0100-spec.xml",
+		"/C/Users/A Nick Garza/Desktop/BlackHatCooperative/Development/black-hat-oculus/Temp/StagingArea/Data/Plugins/UnityNpToolkit2.prx"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 129.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Javascript.sublime-build",
+	"project": "yahoo_finance_tribute_page.sublime-project",
+	"replace":
+	{
+		"height": 75.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
