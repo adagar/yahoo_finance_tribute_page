@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>FCC - Weather API</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="scripts/index.js"></script>
+	<link rel = "stylesheet" href = "css/index.css">
+	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+</head>
+<body>
+	<div class = "container-fluid">
+		<div class = "d-flex justify-content-center">
+			<div class="col text-center">
+				<h1 class="display-2">FCC &amp; CareerDevs Present:</h1>
+				<h1 class="display-4">Another Web Weather Widget</h1>
+			</div>
+		</div>
+		<div class = "jumbotron jumbotron-fluid">
+			<div class="col text-center">
+				<p id="weather-data">Weather data here</p>
+			</div>
+		</div>
+		<div class = "text-center">
+			<div class="col">
+				<form id = "temp-select" action = "">
+					<input type = "radio" name = "weather-units" value = "C" checked>Celsius
+					<input type = "radio" name = "weather-units" value = "F">Fahrenheit
+				</form>
+			</div>
+		</div>
+		<hr>
+		<footer class="footer text-center">
+			<span class="text-muted">Developed by <a href="https://github.com/adagar">Adalberto "Nick" Garza</a> for CareerDevs</span>
+		</footer>
+	</div>
+</body>
+</html>	
