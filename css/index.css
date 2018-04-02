@@ -6,6 +6,7 @@ table{
 }
 body{
 	background-color: #c8e0e3;
+	font-family: sans-serif;
 }
 th{
 	border: 2px solid black;
@@ -44,5 +45,8 @@ div img{
 #footer-img{
 	width:15%;
 	height: 15%;
+}
+#main-content > p{
+	font-size: 1.2rem;
 }
 
