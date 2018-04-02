@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"bck",
+				"background-color"
+			],
+			[
+				"text-",
+				"text-muted"
+			],
+			[
+				"js",
+				"justify-content-center"
+			],
+			[
 				"text",
 				"text-center"
 			],
@@ -15,6 +27,42 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 528,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "finance.html",
+			"settings":
+			{
+				"buffer_size": 4909,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/index.css",
+			"settings":
+			{
+				"buffer_size": 566,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scripts/index.js",
+			"settings":
+			{
+				"buffer_size": 300,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -48,10 +96,15 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/A Nick Garza/Desktop/CareerDevs/yahoo_finance_tribute_page"
+		"/C/Users/A Nick Garza/Desktop/CareerDevs/yahoo_finance_tribute_page",
+		"/C/Users/A Nick Garza/Desktop/CareerDevs/yahoo_finance_tribute_page/css",
+		"/C/Users/A Nick Garza/Desktop/CareerDevs/yahoo_finance_tribute_page/scripts"
 	],
 	"file_history":
 	[
+		"/C/Users/A Nick Garza/Desktop/CareerDevs/yahoo_finance_tribute_page/scripts/index.js",
+		"/C/Users/A Nick Garza/Downloads/quotes.csv",
+		"/C/Users/A Nick Garza/Desktop/CareerDevs/yahoo_finance_tribute_page/yahoo_finance_tribute_page.sublime-project",
 		"/C/Users/A Nick Garza/Desktop/CareerDevs/fcc_weather_api_project/index.html",
 		"/C/Users/A Nick Garza/Desktop/CareerDevs/fcc_algorithms/smallest_common.js",
 		"/C/Users/A Nick Garza/Desktop/CareerDevs/fcc_algorithms/arguments_optional.js",
@@ -104,13 +157,33 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"width",
+			"chage",
+			"<tr>",
+			"<td>",
+			"</td>",
+			"[</td>]$",
+			"^<td>",
+			"^.{1,5}</td>",
+			"^..</td>",
+			"$.*\\</td>",
+			"$.*</td>",
+			","
 		],
 		"highlight": true,
 		"in_selection": false,
 		"preserve_case": false,
-		"regex": false,
+		"regex": true,
 		"replace_history":
 		[
+			"</tr>\\n<tr>",
+			"    <td>",
+			"</td>\\n",
+			"</td>\\n</tr>",
+			"<tr>\\n<td>",
+			"^<tr>\\n<td>",
+			"",
+			"</td><td>"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -121,8 +194,124 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 528,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15,
+								15
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "finance.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4909,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4727,
+								4727
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 264.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/index.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 566,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								402,
+								402
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 444.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "scripts/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 300,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								300,
+								300
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
 			]
 		}
 	],
