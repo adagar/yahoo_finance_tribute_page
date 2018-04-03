@@ -9,5 +9,12 @@ $(document).ready(function() {
       }    
     });
   };
+
+  $("#sendMessageBtn").on("click", function(){
+    $("#submissionWindow").html("Thanks!");
+  });
+  
   changeColor();
+
+
 });

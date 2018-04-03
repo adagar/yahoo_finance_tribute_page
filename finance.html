@@ -175,11 +175,19 @@
 				</tr>
 				</table>
 			</div>
-				<div class="col-3 pop">
+				<div class="col-3 pop" id="submissionWindow">
+					<p class="h5 text-center">Share your success story!</p>
 					<form>
 						<div class="form-group">
-							
+							<label for="userEmail">Email Address</label>
+							<input type="email" class="form-control" id="userEmail" placeholder="Enter your email">
 						</div>
+						<div>
+							<label for="userMessage">Send us a message</label>
+							<textarea class="form-control" id="userMessage" rows="3"></textarea>
+							<br>
+						</div>
+						<button type="submit" class="btn btn-primary" id="sendMessageBtn">Send!</button>	
 					</form>
 				</div>
 			</div>
